@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051526148795",
+    "project_id": "barberflow-2392c",
+    "storage_bucket": "barberflow-2392c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051526148795:android:baa39e392551ff04af2f9e",
+        "android_client_info": {
+          "package_name": "com.example.barberflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpGaI2DMJT_HQwZLYklF6WuRbM61-9DC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
